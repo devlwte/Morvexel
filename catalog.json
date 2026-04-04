@@ -1,0 +1,29 @@
+{
+  "stories": [
+    {
+      "id": "story_001",
+      "title": "El mensaje que cambió todo",
+      "author": "u/ThrowawayRD",
+      "genre": "Traición",
+      "cover_url": "https://i.imgur.com/6ZuxmRM.png",
+      "description": "Encontré los mensajes de mi esposo por accidente. Lo que leí destruyó 8 años en segundos.",
+      "tags": ["infidelidad", "drama", "vida real", "actualización"],
+      "total_reads": 48200,
+      "created_at": "2024-11-01",
+      "chapters": [
+        {
+          "id": "ch_001_1",
+          "chapter_number": 1,
+          "title": "El teléfono desbloqueado",
+          "url": "https://raw.githubusercontent.com/devlwte/Morvexel/main/stories/story_001/chapter_1.json"
+        },
+        {
+          "id": "ch_001_2",
+          "chapter_number": 2,
+          "title": "La confrontación",
+          "url": "https://raw.githubusercontent.com/devlwte/Morvexel/main/stories/story_001/chapter_2.json"
+        }
+      ]
+    }
+  ]
+}
