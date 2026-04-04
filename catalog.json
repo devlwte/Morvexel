@@ -6,7 +6,7 @@
     "genre": "Fantasía",
     "cover_url": "https://i.imgur.com/6ZuxmRM.png",
     "description": "Una aventura épica en un mundo digital.",
-    "chapters": ["chap-1", "chap-2"],
+    "chapters": ["chap-1"],
     "tags": ["Aventura", "Magia", "Cyberpunk"]
   }
 ]
