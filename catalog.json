@@ -1,12 +1,22 @@
-[
-  {
-    "id": "story-001",
-    "title": "El Misterio de Morvexel",
-    "author": "Jeffer",
-    "genre": "Fantasía",
-    "cover_url": "https://i.imgur.com/6ZuxmRM.png",
-    "description": "Una aventura épica en un mundo digital.",
-    "chapters": ["chap-1"],
-    "tags": ["Aventura", "Magia", "Cyberpunk"]
-  }
-]
+{
+  "stories": [
+    {
+      "id": "story_001",
+      "title": "El mensaje que cambió todo",
+      "author": "u/ThrowawayRD",
+      "genre": "Traición",
+      "cover_url": "https://i.imgur.com/6ZuxmRM.png",
+      "description": "Encontré los mensajes de mi esposo por accidente. Lo que leí destruyó 8 años en segundos.",
+      "tags": ["infidelidad", "drama", "vida real"],
+      "created_at": "2024-11-01",
+      "chapters": [
+        {
+          "id": "ch_001_1",
+          "chapter_number": 1,
+          "title": "El teléfono desbloqueado",
+          "url": "stories/story_001/chapter_1.json"
+        }
+      ]
+    }
+  ]
+}
