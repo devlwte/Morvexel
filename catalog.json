@@ -2,19 +2,43 @@
   "stories": [
     {
       "id": "story_001",
-      "title": "El mensaje que cambió todo",
-      "author": "u/ThrowawayRD",
+      "title": "Encontré los mensajes de mi esposa y descubrí que llevaba meses mintiéndome",
+      "author": "Morvexel",
       "genre": "Traición",
       "cover_url": "https://i.imgur.com/6ZuxmRM.png",
-      "description": "Encontré los mensajes de mi esposo por accidente. Lo que leí destruyó 8 años en segundos.",
-      "tags": ["infidelidad", "drama", "vida real"],
-      "created_at": "2024-11-01",
+      "description": "Todo empezó con un mensaje a las 2 de la mañana. Lo que descubrí después no fue solo una infidelidad… fue una vida que nunca conocí.",
+      "tags": ["infidelidad", "drama", "vida real", "reddit"],
+      "created_at": "2026-04-03",
       "chapters": [
         {
           "id": "ch_001_1",
           "chapter_number": 1,
-          "title": "El teléfono desbloqueado",
+          "title": "El mensaje de las 2:17 a.m.",
           "url": "stories/story_001/chapter_1.json"
+        },
+        {
+          "id": "ch_001_2",
+          "chapter_number": 2,
+          "title": "No era la primera vez",
+          "url": "stories/story_001/chapter_2.json"
+        },
+        {
+          "id": "ch_001_3",
+          "chapter_number": 3,
+          "title": "La vida que no conocía",
+          "url": "stories/story_001/chapter_3.json"
+        },
+        {
+          "id": "ch_001_4",
+          "chapter_number": 4,
+          "title": "El error que la delató",
+          "url": "stories/story_001/chapter_4.json"
+        },
+        {
+          "id": "ch_001_5",
+          "chapter_number": 5,
+          "title": "La puerta que no debí tocar",
+          "url": "stories/story_001/chapter_5.json"
         }
       ]
     }
