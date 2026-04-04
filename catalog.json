@@ -16,12 +16,6 @@
           "chapter_number": 1,
           "title": "El teléfono desbloqueado",
           "url": "https://raw.githubusercontent.com/devlwte/Morvexel/main/stories/story_001/chapter_1.json"
-        },
-        {
-          "id": "ch_001_2",
-          "chapter_number": 2,
-          "title": "La confrontación",
-          "url": "https://raw.githubusercontent.com/devlwte/Morvexel/main/stories/story_001/chapter_2.json"
         }
       ]
     }
