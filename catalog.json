@@ -9,6 +9,10 @@
       "description": "Todo empezó con un mensaje a las 2 de la mañana. Lo que descubrí después no fue solo una infidelidad… fue una vida que nunca conocí.",
       "tags": ["infidelidad", "drama", "vida real", "reddit"],
       "created_at": "2026-04-03",
+      "audio": {
+        "lyrics": "lyrics/los_mensajes_story_001.lrc",
+        "url": "https://pub-5e489bb937314a519e7e0229815ccbe9.r2.dev/story_001/los_mensajes_story_001.mp3"
+      },
       "chapters": [
         {
           "id": "ch_001_1",
