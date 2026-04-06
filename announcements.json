@@ -10,7 +10,7 @@
       "content": "Hemos trabajado duro para traerte esta función. Ahora, al entrar en una historia, verás un botón de descarga. Los audios se guardarán encriptados en tu dispositivo para que Morvexel te acompañe a donde vayas.",
       
       "author": {
-        "name": "Jeffer (Devlwte)",
+        "name": "Kyrn",
         "role": "Lead Developer",
         "avatar": "https://github.com/devlwte.png"
       },
@@ -28,7 +28,7 @@
         },
         {
           "label": "Ver Repositorios",
-          "url": "morvexel://settings/repos",
+          "url": "morvexel://settings",
           "type": "internal"
         }
       ],
