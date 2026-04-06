@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2026-04-05T18:00:00Z",
+  "announcements": [
+    {
+      "id": "69d16666-7a04-83e9-922b-0ae19bf6aaef",
+      "type": "update",
+      "title": "✨ ¡Gran Actualización: Modo Offline!",
+      "description": "Ya puedes descargar tus historias favoritas para escucharlas sin conexión a internet.",
+      "content": "Hemos trabajado duro para traerte esta función. Ahora, al entrar en una historia, verás un botón de descarga. Los audios se guardarán encriptados en tu dispositivo para que Morvexel te acompañe a donde vayas.",
+      
+      "author": {
+        "name": "Jeffer (Devlwte)",
+        "role": "Lead Developer",
+        "avatar": "https://github.com/devlwte.png"
+      },
+
+      "media": {
+        "image": "https://i.imgur.com/6ZuxmRM.png",
+        "audio": null
+      },
+
+      "links": [
+        {
+          "label": "Guía de uso",
+          "url": "https://github.com/devlwte/Morvexel/README",
+          "type": "external"
+        },
+        {
+          "label": "Ver Repositorios",
+          "url": "morvexel://settings/repos",
+          "type": "internal"
+        }
+      ],
+
+      "social": {
+        "youtube": "https://youtube.com/@Nodejscreative",
+        "tiktok": null,
+        "instagram": null
+      },
+
+      "priority": "high",
+      "tags": ["nuevo", "descargas", "offline"],
+
+      "timestamps": {
+        "createdAt": "2026-04-05T17:50:00Z",
+        "publishedAt": "2026-04-05T18:00:00Z"
+      }
+    },
+    {
+      "id": "a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d",
+      "type": "maintenance",
+      "title": "Mantenimiento del Servidor",
+      "description": "Estaremos realizando ajustes en el catálogo el día de mañana.",
+      "content": "El servicio de sincronización de nuevos repositorios podría presentar intermitencias entre las 02:00 AM y 04:00 AM (UTC).",
+      
+      "author": {
+        "name": "Soporte Morvexel",
+        "role": "System",
+        "avatar": null
+      },
+
+      "media": {
+        "image": null,
+        "audio": null
+      },
+
+      "links": [],
+
+      "social": null,
+
+      "priority": "normal",
+      "tags": ["mantenimiento"],
+
+      "timestamps": {
+        "createdAt": "2026-04-03T10:00:00Z",
+        "publishedAt": "2026-04-03T12:00:00Z"
+      }
+    }
+  ]
+}
